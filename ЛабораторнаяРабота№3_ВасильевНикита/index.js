@@ -1,0 +1,1 @@
+alert("Опа-опа, сработал JavaScript")
