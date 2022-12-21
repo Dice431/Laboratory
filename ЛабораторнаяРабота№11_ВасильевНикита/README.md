@@ -2,7 +2,7 @@
 
 Создал отдельную html-страницу phone.html, которая находится по пути "html/phone.html". В ней есть 4 инпута с лейблами. У инпутов есть атрибут rel='phone'. 
 
-Шаблон на ввод задан в функции SetMaskForInputsPhone() по пути "js/modules/EventsInputs.js". В этом модуле созадна импортная функция, которая получает на странице все инпуты с атрибутом rel='phone'.
+Маска на ввод задана в функции SetMaskForInputsPhone() по пути "js/modules/EventsInputs.js". В этом модуле созадна импортная функция, которая получает на странице все инпуты с атрибутом rel='phone'.
 
 Эта функция импортируется в файл checkTelephone.js по пути "js/checkTelephone.js".
 
