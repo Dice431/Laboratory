@@ -1,0 +1,1 @@
+Проверить работу можно при запуске phone.html. JS-код находится в "js/checkTelephone.js"
